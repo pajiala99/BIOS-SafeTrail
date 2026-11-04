@@ -1,8 +1,24 @@
-# SafeTrail
+# SafeTrail: BIOS V2 hackathon, Prune problem statement winner 🏆
+
+> **SafeTrail won the Prune problem statement, "Ship It Lean: AI Apps on a Budget", at the BIOS V2 hackathon (Thapar Institute, Patiala).**
 
 A trail safety companion for treks, pilgrimages and national parks. It warns tourists before danger, keeps their SOS safe when there's no signal, and gives responders one clear picture. Every AI call goes through [Prune](https://withprune.com), and the AI is never in the emergency path.
 
 Built for BIOS V2 (Thapar Institute, Patiala), Prune challenge "Ship It Lean: AI Apps on a Budget".
+
+### This repo and the team repo
+
+The team built SafeTrail in [gaurvit06/Safetrail](https://github.com/gaurvit06/Safetrail), and that repo is still where development happens. This repo is the showcase copy.
+
+| | [gaurvit06/Safetrail](https://github.com/gaurvit06/Safetrail) | This repo |
+|---|---|---|
+| App code (backend, frontend, scripts) | ✅ | ✅ The same code, at upstream commit `a8f7d30` |
+| Commit history (31 Oct to 2 Nov 2026) | 56 commits | The same 56 commits, so every author keeps their credit |
+| Spec, decisions, benchmark, handoff docs | ✅ | ✅ |
+| Pitch decks, walkthrough video, screenshots | ✅ | ✅, plus the BIOS pitch deck and a deck PDF in [docs/pitch/](docs/pitch/) |
+| Hackathon result | | 🏆 Prune problem statement winner |
+
+**Team:** Hardik Pajiala ([@pajiala99](https://github.com/pajiala99)), top contributor with 32 commits, and Gaurvit (`gaurvit06`) with 10 commits. Claude, the AI pair programmer, has 14 co-authored commits.
 
 - **Spec:** [SPEC.md](SPEC.md) (source of truth) · **Where the build is:** [HANDOFF.md](HANDOFF.md)
 - **Decisions:** [docs/DECISIONS.md](docs/DECISIONS.md) · **API differences:** [docs/CONTRACT_CHANGES.md](docs/CONTRACT_CHANGES.md)

@@ -24,10 +24,20 @@ The team built SafeTrail in [gaurvit06/Safetrail](https://github.com/gaurvit06/S
 | Pitch decks, walkthrough video, screenshots | ✅ | ✅, plus the BIOS pitch deck and a deck PDF in [docs/pitch/](docs/pitch/) |
 | Hackathon result | | 🏆 First place, BIOS 2026 ([certificate](docs/certificate-bios-2026.jpg)) |
 
-**Team:** Hardik Pajiala ([@pajiala99](https://github.com/pajiala99)), top contributor with 32 commits, and Gaurvit (`gaurvit06`) with 10 commits. Claude, the AI pair programmer, has 14 co-authored commits.
+**Team:** Hardik Pajiala ([@pajiala99](https://github.com/pajiala99) · [LinkedIn](https://linkedin.com/in/hardik-pajiala)), top contributor with 32 commits, and Gaurvit (`gaurvit06`) with 10 commits. Claude, the AI pair programmer, has 14 co-authored commits.
 
 - **Spec:** [SPEC.md](SPEC.md) (source of truth) · **Where the build is:** [HANDOFF.md](HANDOFF.md)
 - **Decisions:** [docs/DECISIONS.md](docs/DECISIONS.md) · **API differences:** [docs/CONTRACT_CHANGES.md](docs/CONTRACT_CHANGES.md)
+
+### Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/phone/10-landslide-alert.png" alt="Phone: a landslide zone alert" width="23%">
+  <img src="docs/screenshots/phone/13-sos-pending-offline.png" alt="Phone: an SOS saved on the phone while offline" width="23%">
+  <img src="docs/screenshots/phone/14-sos-received.png" alt="Phone: the SOS received by the server" width="23%">
+  <img src="docs/screenshots/phone/15-help-acknowledged.png" alt="Phone: help acknowledged by a responder" width="23%">
+</p>
+<p align="center"><img src="docs/screenshots/laptop/20-responder-overview.png" alt="Responder view: live map, incidents and safety checks" width="90%"></p>
 
 ## Run it (one origin, one port)
 Clone into a **short path** (Windows: `C:\Users\<you>\safetrail`).

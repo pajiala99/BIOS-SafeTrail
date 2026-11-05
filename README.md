@@ -1,5 +1,7 @@
 # SafeTrail 🏆
 
+[![ci](https://github.com/pajiala99/BIOS-SafeTrail/actions/workflows/ci.yml/badge.svg)](https://github.com/pajiala99/BIOS-SafeTrail/actions/workflows/ci.yml)
+
 > **First place, BIOS 2026 hackathon (Thapar Institute, Patiala).**
 
 <details>

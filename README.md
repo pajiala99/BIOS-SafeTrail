@@ -1,6 +1,12 @@
 # SafeTrail 🏆
 
-> **Problem statement winner, BIOS V2 hackathon (Thapar Institute, Patiala).**
+> **First place, BIOS 2026 hackathon (Thapar Institute, Patiala).**
+
+<details>
+<summary>🎖️ <b>View the first-place certificate</b></summary>
+<br>
+<img src="docs/certificate-bios-2026.jpg" alt="First place certificate for the winning project at BIOS 2026, presented to Hardik Pajiala" width="640">
+</details>
 
 A trail safety companion for treks, pilgrimages and national parks. It warns tourists before danger, keeps their SOS safe when there's no signal, and gives responders one clear picture. Every AI call goes through [Prune](https://withprune.com), and the AI is never in the emergency path.
 
@@ -16,7 +22,7 @@ The team built SafeTrail in [gaurvit06/Safetrail](https://github.com/gaurvit06/S
 | Commit history (31 Oct to 2 Nov 2026) | 56 commits | The same 56 commits, so every author keeps their credit |
 | Spec, decisions, benchmark, handoff docs | ✅ | ✅ |
 | Pitch decks, walkthrough video, screenshots | ✅ | ✅, plus the BIOS pitch deck and a deck PDF in [docs/pitch/](docs/pitch/) |
-| Hackathon result | | 🏆 Problem statement winner |
+| Hackathon result | | 🏆 First place, BIOS 2026 ([certificate](docs/certificate-bios-2026.jpg)) |
 
 **Team:** Hardik Pajiala ([@pajiala99](https://github.com/pajiala99)), top contributor with 32 commits, and Gaurvit (`gaurvit06`) with 10 commits. Claude, the AI pair programmer, has 14 co-authored commits.
 

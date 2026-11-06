@@ -26,7 +26,7 @@ The team built SafeTrail in [gaurvit06/Safetrail](https://github.com/gaurvit06/S
 | Pitch decks, walkthrough video, screenshots | ✅ | ✅, plus the BIOS pitch deck and a deck PDF in [docs/pitch/](docs/pitch/) |
 | Hackathon result | | 🏆 First place, BIOS 2026 ([certificate](docs/certificate-bios-2026.jpg)) |
 
-**Team:** Hardik Pajiala ([@pajiala99](https://github.com/pajiala99) · [LinkedIn](https://linkedin.com/in/hardik-pajiala)), top contributor with 32 commits, and Gaurvit (`gaurvit06`) with 10 commits. Claude, the AI pair programmer, has 14 co-authored commits.
+**Team:** Hardik Pajiala ([@pajiala99](https://github.com/pajiala99) · [LinkedIn](https://linkedin.com/in/hardik-pajiala)), top contributor with 32 commits; Gaurvit Joshi (`gaurvit06`) with 10 commits; and Aniket Raj and Khushi Dangi. Claude, the AI pair programmer, has 14 co-authored commits.
 
 - **Spec:** [SPEC.md](SPEC.md) (source of truth) · **Where the build is:** [HANDOFF.md](HANDOFF.md)
 - **Decisions:** [docs/DECISIONS.md](docs/DECISIONS.md) · **API differences:** [docs/CONTRACT_CHANGES.md](docs/CONTRACT_CHANGES.md)
